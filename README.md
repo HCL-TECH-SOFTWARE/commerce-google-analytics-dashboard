@@ -1,6 +1,6 @@
 # hcl-commerce-google-analytics-dashboard
 
-# NOTE: This asset is compatible with pre- 9.1.4.0 release versions of HCL Commerce.  In 9.1.4.0 this integration has been productized.**
+# NOTE: This functionality has been included in the product from release 9.1.4.0 and beyond. This asset applies to 9.1.1.0 - 9.1.3.0 only.
 
 
 This project is created to create the analytics dashboard using google Embed API.
